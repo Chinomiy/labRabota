@@ -1,15 +1,12 @@
-package var_1;
+package org.example;
 
-import org.example.Company;
-import org.example.Department;
-import org.example.Employee;
 
 public class Main {
     public static void main(String[] args) {
 
 
         /*
-        пфывп
+
                     A)
          */
         Company company = new Company("Some Company");
