@@ -1,3 +1,4 @@
 # labRabota
  Лаба
-![image](https://github.com/Chinomiy/labRabota/assets/105776771/e1593899-47a8-411b-b789-01ac5e841a66)
+![image](https://github.com/Chinomiy/labRabota/assets/105776771/a11bf6f9-7b62-4fef-81c7-9083143e4890)
+
